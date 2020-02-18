@@ -2,3 +2,4 @@ resource:
     tenantA:
         EMR
         GLUE
+        S3
