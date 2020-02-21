@@ -1,2 +1,6 @@
-resource:
-    EMR
+spec:
+  TenantA:
+    name: TenantA
+    Env: Custom
+    resource:
+      EMR
