@@ -1,5 +1,5 @@
 spec:
-  TenantA:
+  - TenantA:
     name: TenantA
     Env: Dev
     resource:
