@@ -1,5 +1,5 @@
 spec:
-  - name: TenantA
+  - name: TenantA_1
     Env: Custom
     resource:
       EMR
