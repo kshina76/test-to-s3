@@ -1,6 +1,6 @@
 spec:
   - name: TenantA
-    Env: Dev
+    Env: Custom
     resource:
       EMR
       GLUE
