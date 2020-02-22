@@ -1,6 +1,5 @@
 spec:
-  - TenantA:
-    name: TenantA
+  - name: TenantA
     Env: Dev
     resource:
       EMR
