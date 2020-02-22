@@ -4,4 +4,4 @@ spec:
     Env: Dev
     resource:
       EMR
-      GLUEs
+      GLUE
